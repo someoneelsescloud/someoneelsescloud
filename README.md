@@ -56,11 +56,10 @@ Check out EP8: Equipment Guide for Starting YouTube or a Podcast:
 [![EP8: Equipment Guide for Starting YouTube or a Podcast](https://img.youtube.com/vi/yyXeZjlwcCg/default.jpg)](https://www.youtube.com/watch?v=yyXeZjlwcCg)
 
 ## Github Stats:
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/someoneelsescloud.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 
-[![someoneelsescloud github stats](https://github-readme-stats.vercel.app/api?username=someoneelsescloud&theme=blue-green)](https://github.com/someoneelsescloud/github-readme-stats)
-[![someoneelsescloud's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=someoneelsescloud&theme=blue-green)](https://github.com/someoneelsescloud/github-readme-stats)
+[![someoneelsescloud github stats](https://github-readme-stats.vercel.app/api?username=someoneelsescloud)](https://github.com/someoneelsescloud/github-readme-stats)
+[![someoneelsescloud's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=someoneelsescloud)](https://github.com/someoneelsescloud/github-readme-stats)
 
 ## You can show your appreciation to the channel by buying me a coffee:
 [![https://www.buymeacoffee.com/some1elsescloud](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/some1elsescloud)
